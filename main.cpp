@@ -10,31 +10,6 @@
 #include <cassert>
 using namespace std;
 
-//class Tensor
-//{
-//private:
-//	int _dim;
-//	int * _shape;
-//	float * _data;
-//
-//public:
-//	void set(float vlaue, int* position);
-//	float get(int* position);
-//	int size(int dim);
-//	Tensor(int dim, int* size);
-//	Tensor(float * data, int dim, int* size);
-//
-//
-//};
-//
-//void Tensor::set(float value, int* position)
-//{
-//	int index = 0;
-//	for (int i = 0; i < this->_dim; i++)
-//
-//	this->_data[d * this->_height * this->_width + h * this->_width + w] = value;
-//}
-
 float sigmoid(float x)
 {
     float exp_value;
