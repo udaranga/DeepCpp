@@ -1,5 +1,8 @@
 # DeepCpp
 
-C++ implementation of Deep Neural Networks
+A C++ implementation of
+- Feed forward networks
+- Convolutional neural networks
+
 
 
